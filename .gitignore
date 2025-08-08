@@ -1,0 +1,23 @@
+# Jekyll build output (required)
+_site/
+
+# Local cache (safe to ignore)
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata/
+
+# Node dependencies (if you run npm locally)
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn.lock
+
+# System & editor files
+.DS_Store
+Thumbs.db
+*~
+*.swp
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
